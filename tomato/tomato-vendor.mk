@@ -85,5 +85,12 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_ov5648_qtech_liveshot.so:system/vendor/lib/libchromatix_ov5648_qtech_liveshot.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_ov5648_qtech_preview.so:system/vendor/lib/libchromatix_ov5648_qtech_preview.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_ov5648_qtech_snapshot.so:system/vendor/lib/libchromatix_ov5648_qtech_snapshot.so \
+    vendor/yu/tomato/proprietary/vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb:system/vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb \
+    vendor/yu/tomato/proprietary/vendor/etc/acdbdata/QRD/QRD_General_cal.acdb:system/vendor/etc/acdbdata/QRD/QRD_General_cal.acdb \
+    vendor/yu/tomato/proprietary/vendor/etc/acdbdata/QRD/QRD_Global_cal.acdb:system/vendor/etc/acdbdata/QRD/QRD_Global_cal.acdb \
+    vendor/yu/tomato/proprietary/vendor/etc/acdbdata/QRD/QRD_Handset_cal.acdb:system/vendor/etc/acdbdata/QRD/QRD_Handset_cal.acdb \
+    vendor/yu/tomato/proprietary/vendor/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb:system/vendor/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb \
+    vendor/yu/tomato/proprietary/vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb:system/vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb \
+    vendor/yu/tomato/proprietary/vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb:system/vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb 
 
 
