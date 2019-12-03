@@ -286,7 +286,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/lib64/libsystem_health_mon.so:system/vendor/lib64/libsystem_health_mon.so \
     vendor/yu/tomato/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
     vendor/yu/tomato/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
-    vendor/yu/tomato/proprietary/vendor/lib64/libxml.so:system/vendor/lib64/libxml.so
+    vendor/yu/tomato/proprietary/vendor/lib64/libxml.so:system/vendor/lib64/libxml.so \
     vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/apac/airtel/commerci/mcfg_sw.mbn:system/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/apac/airtel/commerci/mcfg_sw.mbn \
     vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/apac/dcm/commerci/mcfg_sw.mbn:system/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/apac/dcm/commerci/mcfg_sw.mbn \
     vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/apac/kddi/commerci/mcfg_sw.mbn:system/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/apac/kddi/commerci/mcfg_sw.mbn \
@@ -365,7 +365,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b23:system/etc/firmware/volte_modem/modem.b23 \
     vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b24:system/etc/firmware/volte_modem/modem.b24 \
     vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b25:system/etc/firmware/volte_modem/modem.b25 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.mdt:system/etc/firmware/volte_modem/modem.mdt \
+    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.mdt:system/etc/firmware/volte_modem/modem.mdt
 
 PRODUCT_PACKAGES += \
     libtime_genoff \
