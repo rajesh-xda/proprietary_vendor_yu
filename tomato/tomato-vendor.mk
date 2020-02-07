@@ -344,28 +344,69 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/na/verizon/svlte/mcfg_sw.mbn:system/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/na/verizon/svlte/mcfg_sw.mbn \
     vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/sa/brazil/commerci/mcfg_sw.mbn:system/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/sa/brazil/commerci/mcfg_sw.mbn \
     vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/sea/smartfre/commerci/mcfg_sw.mbn:system/etc/firmware/volte_modem/modem_pr/mcfg/configs/mcfg_sw/generic/sea/smartfre/commerci/mcfg_sw.mbn \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/mba.mbn:system/etc/firmware/volte_modem/mba.mbn \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b00:system/etc/firmware/volte_modem/modem.b00 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b01:system/etc/firmware/volte_modem/modem.b01 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b02:system/etc/firmware/volte_modem/modem.b02 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b03:system/etc/firmware/volte_modem/modem.b03 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b04:system/etc/firmware/volte_modem/modem.b04 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b05:system/etc/firmware/volte_modem/modem.b05 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b08:system/etc/firmware/volte_modem/modem.b08 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b10:system/etc/firmware/volte_modem/modem.b10 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b11:system/etc/firmware/volte_modem/modem.b11 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b13:system/etc/firmware/volte_modem/modem.b13 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b14:system/etc/firmware/volte_modem/modem.b14 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b15:system/etc/firmware/volte_modem/modem.b15 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b16:system/etc/firmware/volte_modem/modem.b16 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b17:system/etc/firmware/volte_modem/modem.b17 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b18:system/etc/firmware/volte_modem/modem.b18 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b19:system/etc/firmware/volte_modem/modem.b19 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b22:system/etc/firmware/volte_modem/modem.b22 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b23:system/etc/firmware/volte_modem/modem.b23 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b24:system/etc/firmware/volte_modem/modem.b24 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b25:system/etc/firmware/volte_modem/modem.b25 \
-    vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.mdt:system/etc/firmware/volte_modem/modem.mdt \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/mba.mbn:system/etc/firmware/volte_modem/mba.mbn \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b00:system/etc/firmware/volte_modem/modem.b00 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b01:system/etc/firmware/volte_modem/modem.b01 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b02:system/etc/firmware/volte_modem/modem.b02 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b03:system/etc/firmware/volte_modem/modem.b03 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b04:system/etc/firmware/volte_modem/modem.b04 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b05:system/etc/firmware/volte_modem/modem.b05 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b08:system/etc/firmware/volte_modem/modem.b08 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b10:system/etc/firmware/volte_modem/modem.b10 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b11:system/etc/firmware/volte_modem/modem.b11 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b13:system/etc/firmware/volte_modem/modem.b13 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b14:system/etc/firmware/volte_modem/modem.b14 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b15:system/etc/firmware/volte_modem/modem.b15 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b16:system/etc/firmware/volte_modem/modem.b16 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b17:system/etc/firmware/volte_modem/modem.b17 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b18:system/etc/firmware/volte_modem/modem.b18 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b19:system/etc/firmware/volte_modem/modem.b19 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b22:system/etc/firmware/volte_modem/modem.b22 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b23:system/etc/firmware/volte_modem/modem.b23 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b24:system/etc/firmware/volte_modem/modem.b24 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b25:system/etc/firmware/volte_modem/modem.b25 \
+vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.mdt:system/etc/firmware/volte_modem/modem.mdt \
+vendor/yu/tomato/proprietary/bin/wfdservice:system/bin/wfdservice \
+vendor/yu/tomato/proprietary/etc/init/wfdservice.rc:system/etc/init/wfdservice.rc \
+vendor/yu/tomato/proprietary/etc/wfdconfig.xml:system/etc/wfdconfig.xml \
+vendor/yu/tomato/proprietary/etc/wfdconfigsink.xml:system/etc/wfdconfigsink.xml \
+vendor/yu/tomato/proprietary/lib/com.qualcomm.qti.wifidisplayhal@1.0.so:system/lib/com.qualcomm.qti.wifidisplayhal@1.0.so \
+vendor/yu/tomato/proprietary/lib/extractors/libmmparser.so:system/lib/extractors/libmmparser.so \
+vendor/yu/tomato/proprietary/lib/libFileMux.so:system/lib/libFileMux.so \
+vendor/yu/tomato/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
+vendor/yu/tomato/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
+vendor/yu/tomato/proprietary/lib/libmmparser_lite.so:system/lib/libmmparser_lite.so \
+vendor/yu/tomato/proprietary/lib/libmmrtpdecoder.so:system/lib/libmmrtpdecoder.so \
+vendor/yu/tomato/proprietary/lib/libmmrtpencoder.so:system/lib/libmmrtpencoder.so \
+vendor/yu/tomato/proprietary/lib/libwfdavenhancements.so:system/lib/libwfdavenhancements.so \
+vendor/yu/tomato/proprietary/lib/libwfdcodecv4l2.so:system/lib/libwfdcodecv4l2.so \
+vendor/yu/tomato/proprietary/lib/libwfdcommonutils.so:system/lib/libwfdcommonutils.so \
+vendor/yu/tomato/proprietary/lib/libwfdconfigutils.so:system/lib/libwfdconfigutils.so \
+vendor/yu/tomato/proprietary/lib/libwfdmminterface.so:system/lib/libwfdmminterface.so \
+vendor/yu/tomato/proprietary/lib/libwfdmmsink.so:system/lib/libwfdmmsink.so \
+vendor/yu/tomato/proprietary/lib/libwfdmmsrc.so:system/lib/libwfdmmsrc.so \
+vendor/yu/tomato/proprietary/lib/libwfdrtsp.so:system/lib/libwfdrtsp.so \
+vendor/yu/tomato/proprietary/lib/libwfdservice.so:system/lib/libwfdservice.so \
+vendor/yu/tomato/proprietary/lib/libwfdsm.so:system/lib/libwfdsm.so \
+vendor/yu/tomato/proprietary/lib/libwfduibcinterface.so:system/lib/libwfduibcinterface.so \
+vendor/yu/tomato/proprietary/lib/libwfduibcsink.so:system/lib/libwfduibcsink.so \
+vendor/yu/tomato/proprietary/lib/libwfduibcsinkinterface.so:system/lib/libwfduibcsinkinterface.so \
+vendor/yu/tomato/proprietary/lib/libwfduibcsrc.so:system/lib/libwfduibcsrc.so \
+vendor/yu/tomato/proprietary/lib/libwfduibcsrcinterface.so:system/lib/libwfduibcsrcinterface.so \
+vendor/yu/tomato/proprietary/lib64/libmmosal.so:system/lib64/libmmosal.so \
+vendor/yu/tomato/proprietary/lib64/libwfdclient.so:system/lib64/libwfdclient.so \
+vendor/yu/tomato/proprietary/lib64/libwfdnative.so:system/lib64/libwfdnative.so \
+vendor/yu/tomato/proprietary/vendor/bin/wifidisplayhalservice:$(TARGET_COPY_OUT_VENDOR)/bin/wifidisplayhalservice \
+vendor/yu/tomato/proprietary/vendor/etc/init/com.qualcomm.qti.wifidisplayhal@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/com.qualcomm.qti.wifidisplayhal@1.0-service.rc \
+vendor/yu/tomato/proprietary/vendor/lib/com.qualcomm.qti.wifidisplayhal@1.0-halimpl.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qualcomm.qti.wifidisplayhal@1.0-halimpl.so \
+vendor/yu/tomato/proprietary/vendor/lib/libgpustats.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgpustats.so \
+vendor/yu/tomato/proprietary/vendor/lib/libmmosal_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmosal_proprietary.so \
+vendor/yu/tomato/proprietary/vendor/lib/libwfdcommonutils_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdcommonutils_proprietary.so \
+vendor/yu/tomato/proprietary/vendor/lib/libwfdhaldsmanager.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdhaldsmanager.so \
+vendor/yu/tomato/proprietary/vendor/lib/libwfdhdcpcp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdhdcpcp.so \
+vendor/yu/tomato/proprietary/vendor/lib/libwfdmmservice.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdmmservice.so \
+vendor/yu/tomato/proprietary/vendor/lib/libwfdmodulehdcpsession.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdmodulehdcpsession.so \
+vendor/yu/tomato/proprietary/vendor/lib64/libgpustats.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgpustats.so 
 
 PRODUCT_PACKAGES += \
     libtime_genoff \
@@ -378,4 +419,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     shutdownlistener \
     qcnvitems \
-    qcrilhook
+    qcrilhook \
+    WfdService \
+    WfdCommon
