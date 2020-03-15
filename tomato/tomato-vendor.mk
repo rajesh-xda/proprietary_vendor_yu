@@ -366,6 +366,19 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b24:system/etc/firmware/volte_modem/modem.b24 \
     vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.b25:system/etc/firmware/volte_modem/modem.b25 \
     vendor/yu/tomato/proprietary/etc/firmware/volte_modem/modem.mdt:system/etc/firmware/volte_modem/modem.mdt \
+    vendor/yu/tomato/proprietary/lib/libFileMux.so:system/lib/libFileMux.so \
+    vendor/yu/tomato/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
+    vendor/yu/tomato/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
+    vendor/yu/tomato/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
+    vendor/yu/tomato/proprietary/lib/libmmparser_lite.so:system/lib/libmmparser_lite.so \
+    vendor/yu/tomato/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
+    vendor/yu/tomato/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
+    vendor/yu/tomato/proprietary/vendor/lib/libOmxAlacDec.so:system/vendor/lib/libOmxAlacDec.so \
+    vendor/yu/tomato/proprietary/vendor/lib/libOmxAlacDecSw.so:system/vendor/lib/libOmxAlacDecSw.so \
+    vendor/yu/tomato/proprietary/vendor/lib/libOmxAmrwbplusDec.so:system/vendor/lib/libOmxAmrwbplusDec.so \
+    vendor/yu/tomato/proprietary/vendor/lib/libOmxApeDec.so:system/vendor/lib/libOmxApeDec.so \
+    vendor/yu/tomato/proprietary/vendor/lib/libOmxApeDecSw.so:system/vendor/lib/libOmxApeDecSw.so \
+    vendor/yu/tomato/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
 
 PRODUCT_PACKAGES += \
     libtime_genoff \
