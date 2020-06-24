@@ -82,17 +82,6 @@ android_app_import {
 }
 
 android_app_import {
-	name: "TimeService",
-	owner: "yu",
-	apk: "proprietary/vendor/app/TimeService/TimeService.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	soc_specific: true,
-}
-
-android_app_import {
 	name: "shutdownlistener",
 	owner: "yu",
 	apk: "proprietary/vendor/app/shutdownlistener/shutdownlistener.apk",
